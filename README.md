@@ -1,3 +1,4 @@
+Fork自局外人大佬
 # Rime 徐码输入方案
 
 [发布地址](https://github.com/Ace-Who/rime-xuma) ·
